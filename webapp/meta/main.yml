@@ -1,0 +1,9 @@
+---
+galaxy_info:
+  author: "Bamdad Dashtban"
+  company: ThoughtWorks
+  license: BSD
+  min_ansible_version: 1.4
+  categories:
+   - personal
+dependencies: []
